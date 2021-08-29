@@ -1,4 +1,4 @@
 Checking to pull the changes in server and see if this file gets copied on the app on my server
 update: this completed, yay
 
-update # 2: checking for auto deployment
+update # 2: checking for auto deployment again
